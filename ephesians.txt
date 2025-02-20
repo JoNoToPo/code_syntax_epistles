@@ -107,22 +107,22 @@ Blessed be [the God and Father] of [our Lord Jesus Christ], who has blessed us [
                                 by what is called [the circumcision] 
                                         , which is made in [the flesh by hands]— 
                         Remember that you were at that time separated from Christ, 
-                                a. alienated from [the commonwealth of Israel] 
-                                b. and strangers to [the covenants of promise], 
-                                c. having [no hope] 
-                                d. and without [God in the world]. 
-                            But now in Christ Jesus [you] who once were [far off] have been brought [near] by [the blood of Christ]. 
-                                1. For he himself is [our peace], who has
-                                    a. made us both [one] and has
-                                    b. broken down in his flesh [the dividing wall of hostility] 
-                                        by abolishing [the law of commandments] expressed in [ordinances], 
-                                            that he might create in himself [one new man] in place of [the two], 
-                                                so making [peace], 
-                                                and might reconcile us both to [God] 
-                                                    in one body through [the cross], 
-                                                        thereby killing [the hostility]. 
-                                                And he came and preached [peace] to [you who were far off] 
-                                                and [peace] to [those who were near]. 
+                            a. alienated from [the commonwealth of Israel] and 
+                            b. strangers to [the covenants of promise], 
+                            c. having [no hope] and 
+                            d. without [God in the world]. 
+                                But now in Christ Jesus [you] who once were [far off] have been brought [near] by [the blood of Christ]. 
+                                    1. For he himself is [our peace], who has
+                                        a. made us both [one] and has
+                                        b. broken down in his flesh [the dividing wall of hostility] 
+                                            by abolishing [[the law of commandments] expressed in [ordinances]], 
+                                                that he might create in himself [[one new man] in place of [the two]], 
+                                                    so making [peace], 
+                                                    and might reconcile us both to [God] 
+                                                        in one body through [the cross], 
+                                                            thereby killing [the hostility]. 
+                                                    And he came and preached [peace] to [you who were far off] 
+                                                    and [peace] to [those who were near]. 
                                 2. For through him we both have access in one Spirit to the Father. So then 
                                     you are no longer [strangers and aliens], but 
                                         you are fellow [citizens with the saints] and 
@@ -185,43 +185,64 @@ Blessed be [the God and Father] of [our Lord Jesus Christ], who has blessed us [
                                         2. Be completely humble and gentle; 
                                         3. be patient, bearing with one another in love. 
                                         4. Make every effort to keep the unity of the Spirit through the bond of peace.
-                                    There is one body and one Spirit, just as you were called to one hope when you were called; 
-                                    one Lord, one faith, one baptism; 
-                                    one God and Father of all, who is over all and through all and in all.
-                                        But to each one of us grace has been given as Christ apportioned it. 
-                                        This is why it says:
-                                            “When he ascended on high,
-                                            he took many captives
-                                            and gave gifts to his people.”
-                                                    (What does “he ascended” mean except that he also descended to the lower, earthly regions? 
-                                                    He who descended is the very one who ascended higher than all the heavens, 
-                                                    in order to fill the whole universe.) 
-                                                So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, 
-                                                to equip his people for works of service, so that the body of Christ may be built up 
-                                                until we all reach unity in the faith and in the knowledge of the Son of God and become mature, 
-                                                attaining to the whole measure of the fullness of Christ.
-
-Then we will no longer be infants, 
-tossed back and forth by the waves, 
-and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. 
-Instead, speaking the truth in love, 
-we will grow to become in every respect the mature body of him who is the head, that is, Christ. 
-From him the whole body, joined and held together by every supporting ligament, 
-grows and builds itself up in love, as each part does its work.
-
-So I tell you this, and insist on it in the Lord, 
-that you must no longer live as the Gentiles do, 
-in the futility of their thinking.
-They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. 
-Having lost all sensitivity, 
-they have given themselves over to sensuality so as to indulge in every kind of impurity, 
-and they are full of greed.
-
-That, however, is not the way of life you learned when you heard about Christ and were taught in him in accordance with the truth that is in Jesus. 
-You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; 
-to be made new in the attitude of your minds; 
-and to put on the new self, 
-created to be like God in true righteousness and holiness.
+There is 
+    1. one body and 
+    2. one Spirit, 
+            just as you were called to 
+    3. one hope when you were called; 
+    4. one Lord, 
+    5. one faith, 
+    6. one baptism; 
+    7. one God and Father 
+        a. of all, who is 
+        b. over all and 
+        c. through all and 
+        d. in all.
+            But to each one of us grace has been given as Christ apportioned it. 
+                This is why it says:
+                    “When he ascended on high,
+                    he took many captives
+                    and gave gifts to his people.”
+                            (What does “he ascended” mean except that 
+                            he also descended to the lower, earthly regions? 
+                            He who descended is the very one who ascended higher than all the heavens, 
+                            in order to fill the whole universe.) 
+                        So Christ himself gave 
+                            1. the apostles, 
+                            2. the prophets, 
+                            3. the evangelists, 
+                            4. the pastors and 
+                            5. teachers, 
+                                to equip his people for works of service, 
+                                so that the body of Christ may be built up 
+                                until we 
+                                    1. all reach unity 
+                                        a. in the faith and 
+                                        b. in the knowledge of the Son of God and 
+                                    2. become mature, 
+                                        attaining to the whole measure of the fullness of Christ.
+                                        Then we will no longer be infants, 
+                                            tossed back and forth by the waves, and
+                                                blown here and there by 
+                                                every wind of teaching and 
+                                                by the cunning and craftiness of people in their deceitful scheming. 
+                                            Instead, speaking the truth in love, 
+                                                we will grow to become in every respect the mature body of him who is the head, that is, Christ. 
+                                                    From him the whole body, joined and held together by every supporting ligament, 
+                                                        grows and builds itself up in love, as each part does its work.
+                                            So I tell you this, and insist on it in the Lord, 
+                                                that you must no longer live as the Gentiles do, 
+                                                    in the futility of their thinking.
+                                                        They are darkened in their understanding and 
+                                                        separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. 
+                                                        Having lost all sensitivity, 
+                                                        they have given themselves over to sensuality so as to indulge in every kind of impurity, 
+                                                        and they are full of greed.
+                                                        That, however, is not the way of life you learned when you heard about Christ and were taught in him in accordance with the truth that is in Jesus. 
+                                                        You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; 
+                                                        to be made new in the attitude of your minds; 
+                                                        and to put on the new self, 
+                                                        created to be like God in true righteousness and holiness.
 
 Therefore each of you must put off falsehood and speak truthfully to your neighbor, 
 for we are all members of one body. 
