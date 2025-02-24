@@ -188,7 +188,7 @@ Blessed be [the God and Father] of [our Lord Jesus Christ], who has blessed us [
 There is 
     1. one body and 
     2. one Spirit, 
-            just as you were called to 
+    just as you were called to 
     3. one hope when you were called; 
     4. one Lord, 
     5. one faith, 
@@ -234,15 +234,21 @@ There is
                                                 that you must no longer live as the Gentiles do, 
                                                     in the futility of their thinking.
                                                         They are darkened in their understanding and 
-                                                        separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. 
-                                                        Having lost all sensitivity, 
-                                                        they have given themselves over to sensuality so as to indulge in every kind of impurity, 
-                                                        and they are full of greed.
-                                                        That, however, is not the way of life you learned when you heard about Christ and were taught in him in accordance with the truth that is in Jesus. 
-                                                        You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; 
-                                                        to be made new in the attitude of your minds; 
-                                                        and to put on the new self, 
-                                                        created to be like God in true righteousness and holiness.
+                                                            separated from the life of God because of the ignorance that is in them 
+                                                            due to the hardening of their hearts. 
+                                                            Having lost all sensitivity, 
+                                                            they have given themselves over to sensuality 
+                                                            so as to indulge in every kind of impurity, 
+                                                            and they are full of greed.
+                                                        That, however, is not the way of life you learned when you heard about Christ 
+                                                        and were taught in him in accordance with the truth that is in Jesus. 
+                                                        You were taught
+                                                                , with regard to your former way of life, 
+                                                            1. to put off your old self
+                                                                    , which is being corrupted by its deceitful desires;
+                                                            2. and to be made new in the attitude of your minds; 
+                                                            3. to put on the new self, 
+                                                                created to be like God in true righteousness and holiness.
 
 Therefore each of you must put off falsehood and speak truthfully to your neighbor, 
 for we are all members of one body. 
