@@ -5,10 +5,10 @@ The Epistles reformatted based on Paul's nested thoughts
 This resource is meant to be read using VScode's sticy scrolling feature.
 to enable scrolling for more than 4 lines:
     1. go to settings by pressing "ctrl" and "," at the same time
-    2. type "Sticky Scroll: Max Line Count:
+    2. type "Sticky Scroll: Max Line Count"
     3. replace the current number with a number greater or equal to 11
 
-Enabling this will allow you at any point in ephesians to see Paul's thought process and what he is referencing when he says anything like "therefore" or "for"
+Enabling this will allow you at any point in the epistles to see Paul's thought process and what he is directly referencing when he says anything like "therefore" or "for". you will also be able to read a summary of his chain of thought so far by reading from the first line in the sticky scroller a the top of the page down to your current line.
 
 # Style Guide
 We will use this sentence as our example sentence:
