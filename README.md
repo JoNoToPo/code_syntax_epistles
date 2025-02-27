@@ -29,7 +29,7 @@ These sentences should have all of the information needed
 to understand the style guide instructions.
 
 3. lines are indented into "buckets" based on what previous line most logically makes sense for it to be categorized under.
-in the case that a line could both be referring to two different lines priority is given to the least indented line.
+In the case that a line could both be referring to two different lines priority is given to the least indented line.
 eg.
 This is pair of two really long sentences that could,
     in theory, 
@@ -37,7 +37,7 @@ This is pair of two really long sentences that could,
     These sentences should have all of the information needed 
         to understand the style guide instructions.
 
-4. For an aside create a new line at the coona and double indent it.
+4. For an aside create a new line at the comma and double indent it.
 An aside is a section of a sentence that could make sense if it was deleted.
 Usually an aside has a comma that comes before and a comma that comes after. 
 Usually an aside is explaining something that came in the portion of the sentence that came before the aside.
@@ -66,28 +66,29 @@ This is pair of [two really long sentences]
         to understand [the style guide instructions].
 
 the lines above now gramatically flow no matter how you read them: 
-lines 61, 62, 63. 64, 65, 66
+if you read right through lines 61-66
 or lines 61, 62, 63, 64 
 or lines 61, 62, 64 
 or lines 61, 65, 66
 
 7. Lists start with numbers, go to letters then roman numerals.
-lists should still follow rule 6.
+lists should still follow style guide 6 and make grammatical sense if read in other orders.
 eg. 
 Category:
     1. thing 1
-        explaination for thing 1
+        explaination or continuation of thing 1
     2. thing 2
         a. first listed thing under thing 2
             I. first listed thing under thing 2.a
+                explaination of 2.a.I
+                    elaboration
             II. second listed thing under thing 2.a
             III. third listed thing under thing 2.a
         b. second listed thing under thing 2
     2.5 something under "category" but clearly referencing thing 2
         a. first listed thing under thing 2.5
         b. second listed thing under thing 2.5
-            I. first listed thing under thing 2.5.b
-            II. second listed thing under thing 2.5.b
+            explaination or continuation of 2.5.b
         c. third listed thing under thing 2
     3. ...
         a. ...
