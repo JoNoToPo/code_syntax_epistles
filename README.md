@@ -1,5 +1,5 @@
 # code_syntax_epistles
-The Epistles reformatted based on Paul's nested thoughts
+The Epistles reformatted in a Python like way based on Paul's nested thoughts
 
 # How to use:
 This resource is meant to be read using VScode's sticy scrolling feature.
